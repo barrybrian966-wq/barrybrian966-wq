@@ -10,8 +10,8 @@
 - ["Python", "HTML/CSS", "Machine Learning"]
 
 ## Current Projects
-- [Project name](link) — short description
+- [Artificial intelligence-AI](Link) — short description
 
 ## How to Reach Me
 - Email: [barrybrian966@gmail.com]
-- LinkedIn: [your LinkedIn profile link]
+- LinkedIn: [https://github.com/barrybrian966-wq/barrybrian966-wq/tree/main]
